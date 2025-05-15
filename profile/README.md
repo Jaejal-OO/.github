@@ -11,7 +11,7 @@ Oh-Yeah
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Ocean423"><b>Soyoung</b></td>
-    <td align="center"><a href="https://github.com/OhHaneol"><b>Yunah</b></td>
+    <td align="center"><a href="https://github.com/OhAhsis"><b>Yunah</b></td>
   </tr>
       <tr>
    <td align="center"><b>Frontend</b></td>
